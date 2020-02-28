@@ -21,3 +21,51 @@ ty 4 watching and I hope that it will help u or u help me :laughing:
 > holly jesus......
 >
 > :man_facepalming:
+
+
+
+## 200227
+
+> I study widget and menubar
+>
+> I have question about making shortcut
+>
+> I'll know that.... must.....
+
+
+
+## 200228
+
+> what is control variable?
+>
+> it is relative with widget and there are many widget and control variable (like indicatoron or onvalue)
+>
+> we can use widget value with .set or .get
+>
+> `Menubutton` object is different with `Menu` object
+>
+> `smenu.add_radiobutton(label='복사하기',variable=v,value=1, command= selected)`
+>
+> ㄴ like this we can give some value in v
+>
+> and we can attain submenu in menu or button in LabelFrame
+>
+> if you want to make sacle u can use `Scale` method
+>
+> ​	
+>
+> what is ttk.Combobox?
+>
+> we can make entrywidget or dropdown menu with ttk.Combobox
+>
+> ​	
+>
+> if u want to use `for` . u must have more think
+>
+> but u can use that it make ur code shorter
+>
+> ​	
+>
+> trace?
+>
+> this is method that you can call function that u want when u want
