@@ -69,3 +69,34 @@ ty 4 watching and I hope that it will help u or u help me :laughing:
 > trace?
 >
 > this is method that you can call function that u want when u want
+
+
+
+## 200301
+
+> listbox can't use `append`
+>
+> only can use insert
+>
+> ​	
+>
+> tkinter can read file
+>
+> ​	
+>
+> and we can get data to use `curselction`
+>
+> like this 
+>
+> ```python
+> sel = lst.curselection()
+> one=lst.get(sel)   # we can save data into one
+> ```
+>
+> ​	
+>
+> and tkinter can `tag`
+>
+> if we use tag we can adnubustrate more effucuently.
+>
+> also if we use `tag_bind` we can check mouse action or keyboard action
