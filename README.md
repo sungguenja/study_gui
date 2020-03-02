@@ -100,3 +100,29 @@ ty 4 watching and I hope that it will help u or u help me :laughing:
 > if we use tag we can adnubustrate more effucuently.
 >
 > also if we use `tag_bind` we can check mouse action or keyboard action
+
+
+
+## 200302
+
+> today I learn event hendling
+>
+> we can bind event to use `bind` method
+>
+> ```python
+> # like this
+> def c_h(hendler):
+>     #function
+> 
+> txt1.bind('k', c_h)  # press k event c_h will happen
+> ```
+>
+> if we want to generate event press two key just write like this `bind('ab', function)`
+>
+> or if you want to generate event two case (ex. 'a' or 'b') just bind two times
+>
+> and we want to generate other event with same handler just add '+' like
+>
+> ​	
+>
+> values is printed on gui
