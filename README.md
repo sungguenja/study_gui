@@ -126,3 +126,14 @@ ty 4 watching and I hope that it will help u or u help me :laughing:
 > ​	
 >
 > values is printed on gui
+
+
+
+## 200303
+
+> today I learn bind and button action
+>
+> we can bind button action with fuction
+>
+> and they can generate
+
